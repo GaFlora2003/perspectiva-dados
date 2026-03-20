@@ -11,3 +11,4 @@ adiciona a pasta no terminal para modificação.
   Também iremos usar a apartir de agora, um git add "arquivo" e não o ".", para conseguirmos alterar as
   coisas em tempos diferentes.
   O "git restore --stage (arquivo)" retira algum documento do "add".
+  O "git restore" retira todas as alteraçõpes feitas no arquivo local mesmo
