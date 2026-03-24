@@ -12,3 +12,11 @@ adiciona a pasta no terminal para modificação.
   coisas em tempos diferentes.
   O "git restore --stage (arquivo)" retira algum documento do "add".
   O "git restore" retira todas as alteraçõpes feitas no arquivo local mesmo
+  
+  
+  24/03 - instalando UV que é um gerenciador de pacotes do Python. Usamos o UV init para 
+  iniciar o projeto e 'cat' para imprimir oq a pasta está escrito.
+  'uv add' instala os pacotes do python.
+  Da proxima vez usar somente uv sinc em vez de uv init.
+  Como iniciar o jupyter no google. Vamos usar uv run jupyter notebook para programar localmente.
+  
