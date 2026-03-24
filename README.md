@@ -20,3 +20,7 @@ adiciona a pasta no terminal para modificação.
   Da proxima vez usar somente uv sinc em vez de uv init.
   Como iniciar o jupyter no google. Vamos usar uv run jupyter notebook para programar localmente.
   
+  Para ignorar alguns arquivos no na pasta nossa (como versoes de python e tudo mais), 
+  vamos colocar no terminal "add .gitignore" e colocar os nomes do arquivos dentro desse txt
+  para ignorar eles no status.
+  
