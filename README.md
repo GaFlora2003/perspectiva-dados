@@ -11,7 +11,8 @@ adiciona a pasta no terminal para modificação.
   Também iremos usar a apartir de agora, um git add "arquivo" e não o ".", para conseguirmos alterar as
   coisas em tempos diferentes.
   O "git restore --stage (arquivo)" retira algum documento do "add".
-  O "git restore" retira todas as alteraçõpes feitas no arquivo local mesmo
+  O "git restore" retira todas as alteraçõpes feitas no arquivo local mesmo.
+  git log também, mas nao sei oq faz.
   
   
   24/03 - instalando UV que é um gerenciador de pacotes do Python. Usamos o UV init para 
@@ -21,6 +22,6 @@ adiciona a pasta no terminal para modificação.
   Como iniciar o jupyter no google. Vamos usar uv run jupyter notebook para programar localmente.
   
   Para ignorar alguns arquivos no na pasta nossa (como versoes de python e tudo mais), 
-  vamos colocar no terminal "add .gitignore" e colocar os nomes do arquivos dentro desse txt
+  vamos colocar no terminal "touch .gitignore" e colocar os nomes do arquivos dentro desse txt
   para ignorar eles no status.
   
