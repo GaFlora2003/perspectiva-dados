@@ -25,3 +25,17 @@ adiciona a pasta no terminal para modificação.
   vamos colocar no terminal "touch .gitignore" e colocar os nomes do arquivos dentro desse txt
   para ignorar eles no status.
   
+  
+  27/03 - Usando o vi
+  ls -a verifica os arquivos ocultos na minha pasta
+  cd . bashrc entra no layout para adicionar codigos base toda vez que eu entrar no meu pc, como um atalho.
+  como usar o editor de texto no terminal
+   - "i"" entra no modo de editar
+   - "o" pula uma linha
+   - "esc u" desfaz a ultima alteração feita
+   - esc sai do modo de edição
+   - para sair sem alterações :q!
+   - para sair com alterações feitas (:w e deposi :q)
+   
+   
+  
