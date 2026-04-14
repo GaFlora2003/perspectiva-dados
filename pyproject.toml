@@ -1,0 +1,11 @@
+[project]
+name = "Projeto_UV"
+version = "0.1.0"
+description = "Projeto usando UV"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "nltk>=3.9.4",
+    "numpy==1.26.4",
+    "scikit-learn>=1.7.2",
+]
