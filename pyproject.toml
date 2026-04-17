@@ -5,7 +5,11 @@ description = "Projeto usando UV"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "jupyterlab>=4.5.6",
     "nltk>=3.9.4",
-    "numpy>=1.26.4",
+    "notebook>=7.5.5",
+    "numpy>=2.2.6",
+    "pandas>=2.3.3",
     "scikit-learn>=1.7.2",
+    "unidecode>=1.4.0",
 ]
