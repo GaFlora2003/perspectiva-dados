@@ -3,11 +3,14 @@ name = "perspectiva-dados"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.10"
 dependencies = [
-    "jupyterlab>=4.5.7",
-    "nltk>=3.9.4",
-    "numpy>=2.4.4",
-    "pandas>=3.0.2",
-    "unidecode>=1.4.0",
+    "jupyter",
+    "jupyterlab",
+    "nltk",
+    "notebook",
+    "numpy",
+    "pandas",
+    "scikit-learn>=1.7.2",
+    "unidecode",
 ]
