@@ -7,11 +7,14 @@ requires-python = ">=3.10"
 dependencies = [
     "jupyter",
     "jupyterlab",
+    "matplotlib>=3.10.9",
     "nltk",
     "notebook",
     "numpy",
     "pandas",
     "plotly>=6.7.0",
     "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
     "unidecode",
+    "wordcloud>=1.9.6",
 ]
